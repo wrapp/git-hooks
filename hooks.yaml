@@ -3,4 +3,4 @@
     description: Formats go files according to the standard
     entry: golang-fmt
     language: script
-    files: *
+    files: \.(go)$
