@@ -1,0 +1,6 @@
+-   id: golang-fmt
+    name: golang-fmt
+    description: Formats go files according to the standard
+    entry: golang-fmt
+    language: script
+    files: *
