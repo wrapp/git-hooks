@@ -1,6 +1,6 @@
 -   id: golang-fmt
     name: golang-fmt
     description: Formats go files according to the standard
-    entry: golang-fmt
+    entry: pro-commits/golang-fmt.sh
     language: script
-    files: \.(go)$
+    files: '\.go$'
